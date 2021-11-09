@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekrellw
 - 👀 I’m interested in PHP SOAP XML WSDL
-- 🌱 I’m currently learning how to run old PHP packahes in PHP 8.x
+- 🌱 I’m currently learning how to run old PHP packages in PHP 8.x
 - 💞️ I’m looking to collaborate on any PHP project
 - 📫 How to reach me eduardo.krell@gmail.com
 
